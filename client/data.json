@@ -1,0 +1,160 @@
+[
+  {
+    "category": "SOUP",
+    "items": [
+      { "name": "TOMATO SOUP", "price": 99 },
+      { "name": "SWEET CORN SOUP", "price": 99 },
+      { "name": "VEG HOT AND SOUR SOUP", "price": 99 },
+      { "name": "VEG MANCHAOW SOUP", "price": 99 },
+      { "name": "CHICKEN MANCHOW SOUP", "price": 119 },
+      { "name": "VEG LEMON CORIANDER SOUP", "price": 119 },
+      { "name": "CHICKEN HOT AND SOUR SOUP", "price": 129 }
+    ]
+  },
+  {
+    "category": "BURGER",
+    "items": [
+      { "name": "VEG BURGER", "price": 59 },
+      { "name": "CHICKEN BURGER", "price": 69 },
+      { "name": "PANEER BURGER", "price": 69 },
+      { "name": "VEG CHEESE BURGER", "price": 69 },
+      { "name": "CHICKEN CHEESE BURGER", "price": 79 },
+      { "name": "PANEER CHEESE BURGER", "price": 79 },
+      { "name": "OMELETTE BURGER", "price": 89 },
+      { "name": "OMELETTE CHEESE BURGER", "price": 99 }
+    ]
+  },
+  {
+    "category": "PASTA",
+    "items": [
+      { "name": "WHITE SAUCE PASTA", "price": 199 },
+      { "name": "RED SAUCE PASTA", "price": 199 },
+      { "name": "MIX SAUCE PASTA", "price": 229 },
+      { "name": "CHICKEN PASTA", "price": 249 }
+    ]
+  },
+  {
+    "category": "OMELETTE",
+    "items": [
+      { "name": "OMELETTE", "price": 49 },
+      { "name": "CHEESE OMELETTE", "price": 59 },
+      { "name": "BREAD OMELETTE", "price": 69 },
+      { "name": "BREAD CHEESE OMELETTE", "price": 79 }
+    ]
+  },
+  {
+    "category": "SANDWICH",
+    "items": [
+      { "name": "VEG GRILL SANDWICH", "price": 59 },
+      { "name": "EGG SANDWICH", "price": 69 },
+      { "name": "VEG CHEESE GRILL SANDWICH", "price": 69 },
+      { "name": "PANEER GRILL SANDWICH", "price": 79 },
+      { "name": "PANEER CHEESE GRILL SANDWICH", "price": 89 },
+      { "name": "CHICKEN GRILL SANDWICH", "price": 89 },
+      { "name": "CHICKEN CHEESE GRILL SANDWICH", "price": 109 }
+    ]
+  },
+  {
+    "category": "RICE",
+    "items": [
+      { "name": "EGG FRIED RICE", "price": 149 },
+      { "name": "VEG FRIED RICE", "price": 149 },
+      { "name": "BURNT GARLIC RICE", "price": 169 },
+      { "name": "LEMON RICE", "price": 169 },
+      { "name": "VEG SCHEZWAN RICE", "price": 169 },
+      { "name": "VEG GARLIC RICE", "price": 169 },
+      { "name": "CHICKEN FRIED RICE", "price": 169 },
+      { "name": "PANEER FRIED RICE", "price": 199 },
+      { "name": "CHICKEN SCHEZWAN RICE", "price": 199 },
+      { "name": "VEG POT RICE", "price": 199 },
+      { "name": "CHICKEN BURNT GARLIC RICE", "price": 199 },
+      { "name": "CHICKEN LEMON RICE", "price": 199 },
+      { "name": "CHICKEN KOREAN RICE", "price": 199 },
+      { "name": "TRIPLE VEG FRIED RICE", "price": 219 },
+      { "name": "PANEER SCHEZWAN RICE", "price": 219 },
+      { "name": "CHICKEN TRIPLE SCHEZWAN FRIED RICE", "price": 249 },
+      { "name": "CHICKEN POT RICE", "price": 249 }
+    ]
+  },
+  {
+    "category": "BIRYANI",
+    "items": [
+      { "name": "VEG DUM BIRYANI", "price": 149 },
+      { "name": "PANEER BIRYANI", "price": 199 },
+      { "name": "CHICKEN DUM BIRYANI", "price": 199 },
+      { "name": "CHICKEN LEG BIRYANI", "price": 249 },
+      { "name": "CHICKEN HYDERABADI BIRYANI", "price": 249 },
+      { "name": "MUTTON DUM BIRYANI", "price": 299 },
+      { "name": "MUTTON HYDERABADI BIRYANI", "price": 349 }
+    ]
+  },
+  {
+    "category": "NOODLES",
+    "items": [
+      { "name": "VEG CHOWMEIN", "price": 99 },
+      { "name": "VEG HAKKA NOODLES", "price": 119 },
+      { "name": "VEG SCHEZWAN NOODLES", "price": 129 },
+      { "name": "VEG BURNT GARLIC NOODLES", "price": 129 },
+      { "name": "PANEER NOODLES", "price": 149 },
+      { "name": "CHILLI GARLIC NOODLES", "price": 149 },
+      { "name": "EGG NOODLES", "price": 199 },
+      { "name": "CHICKEN HAKKA NOODLES", "price": 209 },
+      { "name": "EGG SCHEZWAN NOODLES", "price": 219 },
+      { "name": "CHICKEN HONG-KONG NOODLES", "price": 229 },
+      { "name": "CHICKEN CHILLI GARLIC NOODLES", "price": 229 },
+      { "name": "CHICKEN SCHEZWAN NOODLES", "price": 229 },
+      { "name": "CHICKEN BURNT GARLIC NOODLES", "price": 229 }
+    ]
+  },
+  {
+    "category": "ROLLS",
+    "items": [
+      { "name": "VEG KATHI ROLL", "price": 89 },
+      { "name": "EGG ROLL", "price": 99 },
+      { "name": "PANEER KATHI ROLL", "price": 99 },
+      { "name": "DOUBLE EGG ROLL", "price": 109 },
+      { "name": "PANEER KATHI CHEESE ROLL", "price": 119 },
+      { "name": "CHICKEN KATHI ROLL", "price": 129 },
+      { "name": "CHICKEN KATHI CHEESE ROLL", "price": 149 },
+      { "name": "VEG SPRING ROLL", "price": 149 },
+      { "name": "CHICKEN SPRING ROLL", "price": 199 }
+    ]
+  },
+  {
+    "category": "GRAVY",
+    "items": [
+      { "name": "GOBI MANCHURIAN GRAVY", "price": 199 },
+      { "name": "VEG MANCHURIAN GRAVY", "price": 199 },
+      { "name": "PANEER CHILLI GRAVY", "price": 219 },
+      { "name": "MUSHROOM CHILLI GRAVY", "price": 229 },
+      { "name": "PANEER MANCHURIAN GRAVY", "price": 229 },
+      { "name": "BLACK BEAN CHICKEN GRAVY", "price": 249 },
+      { "name": "BURNT GARLIC CHILLI GRAVY", "price": 249 },
+      { "name": "CHICKEN MANCHURIAN GRAVY", "price": 249 },
+      { "name": "CHICKEN CHILLI GRAVY", "price": 249 }
+    ]
+  },
+  {
+    "category": "PIZZA",
+    "items": [
+      { "name": "TOMATO PIZZA", "price": { "regular": 119, "extra_cheese": 138 } },
+      { "name": "PANEER PIZZA", "price": { "regular": 149, "extra_cheese": 168 } },
+      { "name": "ONION TOMATO PIZZA", "price": { "regular": 129, "extra_cheese": 148 } },
+      { "name": "ONION PIZZA", "price": { "regular": 119, "extra_cheese": 138 } },
+      { "name": "MUSHROOM PIZZA", "price": { "regular": 149, "extra_cheese": 168 } },
+      { "name": "MARGHERITA PIZZA", "price": { "regular": 119, "extra_cheese": 138 } },
+      { "name": "FARMHOUSE PIZZA", "price": 249 },
+      { "name": "CORN TOMATO CAPSICUM PIZZA", "price": { "regular": 149, "extra_cheese": 168 } },
+      { "name": "CORN PIZZA", "price": { "regular": 149, "extra_cheese": 168 } },
+      { "name": "CHICKEN SCHEZWAN PIZZA", "price": { "regular": 168, "extra_cheese": 188 } },
+      { "name": "CHICKEN PIZZA", "price": { "regular": 169, "extra_cheese": 188 } }
+    ]
+  },
+  {
+    "category": "SALAD",
+    "items": [
+      { "name": "SALAD", "price": 69 },
+      { "name": "ONION SALAD", "price": 30 }
+    ]
+  }
+]
